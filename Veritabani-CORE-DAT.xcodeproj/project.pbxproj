@@ -16,6 +16,7 @@
 		6C67DF90252DDED500E2775A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C67DF8E252DDED500E2775A /* LaunchScreen.storyboard */; };
 		6C67DF9B252DDED500E2775A /* Veritabani_CORE_DATTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C67DF9A252DDED500E2775A /* Veritabani_CORE_DATTests.swift */; };
 		6C67DFA6252DDED500E2775A /* Veritabani_CORE_DATUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C67DFA5252DDED500E2775A /* Veritabani_CORE_DATUITests.swift */; };
+		6C67DFB7252DE0F700E2775A /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C67DFB6252DE0F700E2775A /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6C67DFA1252DDED500E2775A /* Veritabani-CORE-DATUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Veritabani-CORE-DATUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C67DFA5252DDED500E2775A /* Veritabani_CORE_DATUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Veritabani_CORE_DATUITests.swift; sourceTree = "<group>"; };
 		6C67DFA7252DDED500E2775A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C67DFB6252DE0F700E2775A /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				6C67DF80252DDED500E2775A /* AppDelegate.swift */,
 				6C67DF82252DDED500E2775A /* SceneDelegate.swift */,
 				6C67DF84252DDED500E2775A /* ViewController.swift */,
+				6C67DFB6252DE0F700E2775A /* DetailsViewController.swift */,
 				6C67DF86252DDED500E2775A /* Main.storyboard */,
 				6C67DF8C252DDED500E2775A /* Assets.xcassets */,
 				6C67DF8E252DDED500E2775A /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				6C67DF81252DDED500E2775A /* AppDelegate.swift in Sources */,
 				6C67DF8B252DDED500E2775A /* Veritabani_CORE_DAT.xcdatamodeld in Sources */,
 				6C67DF83252DDED500E2775A /* SceneDelegate.swift in Sources */,
+				6C67DFB7252DE0F700E2775A /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
